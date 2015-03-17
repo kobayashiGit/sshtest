@@ -1,1 +1,1 @@
-index.phpでいい
+index.php
