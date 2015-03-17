@@ -1,2 +1,7 @@
-index.php
-こばこば
+<?php
+
+$s="testsfdgsd";
+
+print $s;
+
+?>
