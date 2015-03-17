@@ -1,5 +1,5 @@
 <?php
-$a="kobayashi"
+$a="kobayashi";
 
 print $a;
 
